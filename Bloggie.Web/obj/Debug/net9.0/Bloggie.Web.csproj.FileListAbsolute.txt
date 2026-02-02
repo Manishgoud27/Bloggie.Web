@@ -218,3 +218,6 @@ C:\Users\Manish Goud\source\repos\Bloggie.Web\Bloggie.Web\obj\Debug\net9.0\refin
 C:\Users\Manish Goud\source\repos\Bloggie.Web\Bloggie.Web\obj\Debug\net9.0\Bloggie.Web.pdb
 C:\Users\Manish Goud\source\repos\Bloggie.Web\Bloggie.Web\obj\Debug\net9.0\Bloggie.Web.genruntimeconfig.cache
 C:\Users\Manish Goud\source\repos\Bloggie.Web\Bloggie.Web\obj\Debug\net9.0\ref\Bloggie.Web.dll
+C:\Users\Manish Goud\source\repos\Bloggie.Web\Bloggie.Web\bin\Debug\net9.0\Npgsql.dll
+C:\Users\Manish Goud\source\repos\Bloggie.Web\Bloggie.Web\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Manish Goud\source\repos\Bloggie.Web\Bloggie.Web\obj\Debug\net9.0\Bloggie.Web.sourcelink.json
